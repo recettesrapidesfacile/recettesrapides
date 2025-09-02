@@ -28,4 +28,4 @@ Ajoute des tomates cerises ou des olives pour plus de goût.
 ### Produits recommandés
 👉 [Casserole antiadhésive](https://amzn.to/3VsXtR3)  
 👉 [Passoire inox](https://amzn.to/41tzXHe)  
-👉 [Cuillère en bois]([TON-LIEN-AMAZON](https://amzn.to/4gcVHNG))
+👉 [Cuillère en bois](https://amzn.to/4gcVHNG)
