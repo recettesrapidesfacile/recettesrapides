@@ -3,7 +3,8 @@ date: 2025-09-05
 title: Pâtes au thon
 categories:
   - Recettes rapides
-featured_image: https://images.unsplash.com/photo-1600891964599-f61ba0e24092?w=1560&h=940&fit=crop
+layout: post
+featured_image: https://images.unsplash.com/photo-1620712157574-3c8e1452b8d4?w=1560&h=940&fit=crop
 recipe:
   servings: 1 personne
   prep: 5 minutes
